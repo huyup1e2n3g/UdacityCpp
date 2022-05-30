@@ -41,3 +41,19 @@ Udacity C++ Course
 🚗   ⛰️   C   🚗   🚗   🚗   
 🚗   🚗   🚗   🚗   ⛰️   🏁 
 ```
+### Lesson 04: Writing Multifile Programs
+> In this lesson, you will learn the syntax for C++ language features that you will need for the next steps in the course. This includes an overview of header files, pointers, build tools, and classes.
+
+#### Lesson Outline
+- Header files
+  - Using headers to break a single file into multiple files
+- Build systems
+  - CMake and Make
+- Tools for writing larger programs:
+  - References
+  - Pointers
+  - Maps
+  - Classes and object-oriented programming in C++
+
+#### Notes
+- Notes [2.4 Writing Multifile Programs](https://github.com/huyup1e2n3g/UdacityCpp/blob/main/doc/2.4Writng%20Multifile%20Programs.md)
